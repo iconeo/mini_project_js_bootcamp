@@ -1,10 +1,10 @@
 Créez en HTML/CSS une div de 200px par 200px avec en couleur de fond le rouge.
 
-Ses bordures seront arrondies afin de créer un rond parfait et non plus un carré. Cedivsera donc notre ballon.
+Ses bordures seront arrondies afin de créer un rond parfait et non plus un carré. Cette div sera donc notre ballon.
 
-- Lors d’un clic sur le ballon, sa taille augmentera de10pxtout en gardant sa forme arrondie.
+- Lors d’un clic sur le ballon, sa taille augmentera de 10px tout en gardant sa forme arrondie.
 
-- À chaque clic, sa couleur passera dans cet ordre du rouge, au vert, au bleu puison reprend depuis le rouge.
+- À chaque clic, sa couleur passera dans cet ordre du rouge, au vert, au bleu puis on reprend depuis le rouge.
 
 - En rêgle générale ce type de ballon est plutôt résitant mais si sa taille est supérieure à 420px, il "explose" et reprend sa taille initiale.
 
